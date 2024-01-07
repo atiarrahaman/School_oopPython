@@ -1,0 +1,29 @@
+1.school ---->  1.class_room 
+                2.student
+                3.teacher
+
+
+* school do -->
+
+    add teacher
+    enrrol student
+    add class_room
+
+* class_room do -->
+     
+      add__student
+      add__teacher
+
+* teacher do -->
+
+      teach 
+      take_exam
+      give result
+
+* student do --->
+    
+
+     enrrol class_room
+     
+
+   
